@@ -6,8 +6,8 @@
 ---
 
 ### How use?
-1. Install dependencies:
+1. Install dependencies:<br/>
 ```npm i```
 
-2. Run script:
+2. Run script:<br/>
 ```node commit-script.js```
