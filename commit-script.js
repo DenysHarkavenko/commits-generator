@@ -24,6 +24,7 @@ async function createCommit(date, message) {
 
 async function main() {
   const numCommits = Math.floor(Math.random() * 15) + 1; // range of commits (0 - 15)
+
   // Put your dates below (yy--mm--dd)
   const startDate = new Date("2023-01-01");
   const endDate = new Date("2024-01-01");
